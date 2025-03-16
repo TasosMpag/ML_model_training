@@ -1,0 +1,1 @@
+This notebook demonstrates the use of Decision Trees, PCA, Gradient Boosting, and KMeans Clustering on the MNIST dataset. Each step includes a discussion of the results, highlighting the advantages and disadvantages of each method. The final step involves unsupervised learning and label propagation, providing a comparison with supervised methods.
